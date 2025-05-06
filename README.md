@@ -31,7 +31,8 @@ Custom utility modules (GetFarewellText.js, RandomWords.js, etc.)
 ```
 
 ## 📸 ScreenShot
-<img width="1680" alt="Screenshot 2025-05-06 at 1 38 57 PM" src="https://github.com/user-attachments/assets/88552db7-3396-44cc-be84-dabf3cbc41d7" />
+<img width="1680" alt="Screenshot 2025-05-06 at 7 27 23 PM" src="https://github.com/user-attachments/assets/9358ada1-b864-40e9-a1b0-7ab8d38daa4b" />
+
 
 
 ## 💡 Features
