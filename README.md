@@ -29,6 +29,11 @@ Custom utility modules (GetFarewellText.js, RandomWords.js, etc.)
 │   └── RandomWords.js
 └── vite.config.js
 ```
+
+## 📸 ScreenShot
+<img width="1680" alt="Screenshot 2025-05-06 at 1 38 57 PM" src="https://github.com/user-attachments/assets/88552db7-3396-44cc-be84-dabf3cbc41d7" />
+
+
 ## 💡 Features
 Guess random words with limited attempts.
 Dynamic end messages (via GetFarewellText.js).
